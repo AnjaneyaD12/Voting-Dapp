@@ -8,6 +8,6 @@ Once deployed, we can register as a Voter or a Candidate using different address
 
 ## Demo
 
-https://moonlit-twilight-641894.netlify.app/
+https://decentralised-voting-dapp.netlify.app/
 
 
